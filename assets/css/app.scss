@@ -1,0 +1,9 @@
+/* This file is for your main application css. */
+@import "../node_modules/nprogress/nprogress.css";
+
+@import 'bulma';
+
+.container {
+    padding-top: 20px;
+    min-height: 100vh;
+}
